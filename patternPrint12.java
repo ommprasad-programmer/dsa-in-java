@@ -15,6 +15,7 @@ public class patternPrint12 {
             for(k=1 ; k<=i;k++){
                 System.out.print(k );
             }
+            
             System.out.println();
         }
     }
