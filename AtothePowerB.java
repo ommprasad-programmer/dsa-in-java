@@ -19,6 +19,7 @@ public class AtothePowerB {
         for (int i = 1; i <= b; i++) {
             result = result * a;
         }
+        
 
         System.out.println("Result: " + result);
     }
