@@ -20,6 +20,7 @@ public class twoSum {
 
         }
         System.out.println(I + "," + J);
+        System.out.println(i);
     }
     
 }
